@@ -1,108 +1,76 @@
-<table cellpadding="0" cellspacing="0"
-       style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #000;">
-  <tr>
-    <!-- Logos -->
-    <td valign="top" style="padding-right:16px;">
-      <table cellpadding="0" cellspacing="0">
-        <tr>
-          <td style="padding-bottom:8px;">
-            <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/lavi.png?raw=true"
-                 alt="LAVI USP"
-                 height="42"
-                 border="0"
-                 style="display:block; vertical-align:middle;">
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/mobile.png?raw=true"
-                 alt="Laboratory Logo"
-                 height="42"
-                 border="0"
-                 style="display:block; vertical-align:middle;">
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Content -->
-    <td valign="top">
-      <div style="font-size:15px; font-weight:bold; margin-bottom:5px;">
-        João Manoel Herrera Pinheiro
-      </div>
-      <div style="line-height:1.45;">
-        PhD Candidate — University of São Paulo<br>
-        MSc — University of São Paulo<br>
-        MBA in Software Engineering — University of São Paulo<br>
-        Specialization in Education — UNIVESP<br>
-        Mechatronics Engineer — University of São Paulo
-      </div>
-      <!-- PCD -->
-      <table cellpadding="0" cellspacing="0" style="margin-top:6px;">
-        <tr>
-          <td valign="middle" style="padding-right:6px;">
-            <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/autismo.png?raw=true"
-                 width="14"
-                 border="0"
-                 style="display:block; vertical-align:middle;">
-          </td>
-          <td valign="middle" style="font-style:italic;">
-            Person with Disability (PCD) — Autism
-          </td>
-        </tr>
-      </table>
-      <!-- Icons (NO &nbsp;, NO inline images) -->
-      <table cellpadding="0" cellspacing="0" style="margin-top:8px;">
-        <tr>
-          <td>
-            <a href="https://lattes.cnpq.br/4089313443327401" style="text-decoration:none;">
-              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/lattes.jpeg?raw=true"
-                   width="16" border="0"
-                   style="display:block; vertical-align:middle;">
-            </a>
-          </td>
-          <td width="6"></td>
-          <td>
-            <a href="https://orcid.org/0009-0001-6192-7374" style="text-decoration:none;">
-              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/orcid.png?raw=true"
-                   width="16" border="0"
-                   style="display:block; vertical-align:middle;">
-            </a>
-          </td>
-          <td width="6"></td>
-          <td>
-            <a href="https://scholar.google.com/citations?user=bXATl38AAAAJ&hl=en" style="text-decoration:none;">
-              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/scholar.png?raw=true"
-                   width="16" border="0"
-                   style="display:block; vertical-align:middle;">
-            </a>
-          </td>
-          <td width="6"></td>
-          <td>
-            <a href="https://www.linkedin.com/in/joaomh/" style="text-decoration:none;">
-              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/linkedin.png?raw=true"
-                   width="16" border="0"
-                   style="display:block; vertical-align:middle;">
-            </a>
-          </td>
-          <td width="6"></td>
-          <td>
-            <a href="https://www.youtube.com/2001engenharia" style="text-decoration:none;">
-              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/youtube.png?raw=true"
-                   width="16" border="0"
-                   style="display:block; vertical-align:middle;">
-            </a>
-          </td>
-        </tr>
-      </table>
-      <!-- Emails -->
-      <div style="margin-top:8px;">
-        <a href="mailto:joaomh@protonmail.com" style="color:#000; text-decoration:none;">
-          joaomh@protonmail.com
-        </a><br>
-        <a href="mailto:joao.manoel.pinheiro@usp.br" style="color:#000; text-decoration:none;">
-          joao.manoel.pinheiro@usp.br
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+## Assinatura de e-mail HTML
+
+Este repositório contém uma **assinatura de e-mail em HTML**, compatível com **Gmail, Outlook e outros clientes**, desenvolvida com foco em **padrão acadêmico/institucional**.
+
+A assinatura utiliza:
+
+* Layout baseado em **tabelas** (padrão para e-mail)
+* Logos organizados **verticalmente**
+* Ícones clicáveis (Lattes, ORCID, Google Scholar, LinkedIn, YouTube)
+* Boas práticas para evitar artefatos visuais (linhas, sublinhados, “_”)
+
+---
+
+## Como usar
+
+### 1. Baixar o arquivo HTML
+
+Faça o download do arquivo da assinatura (por exemplo: `signature.html`) diretamente do repositório.
+
+Você pode:
+
+* Clicar em **Download**
+* Ou abrir o arquivo e copiar todo o conteúdo HTML
+
+---
+
+### 2. Copiar o conteúdo HTML
+
+Abra o arquivo `signature.html` em um editor de texto (VS Code, Notepad++, etc.)
+Copie **todo o conteúdo** do arquivo.
+
+---
+
+### 3. Colar no Gmail
+
+1. Abra o Gmail
+2. Vá em **Configurações → Ver todas as configurações**
+3. Role até **Assinatura**
+4. Crie uma nova assinatura
+5. **Cole o HTML diretamente** no campo de assinatura
+6. Salve as alterações
+
+> ⚠️ Importante: não use o botão “Inserir imagem”. O HTML já contém tudo.
+
+---
+
+### 4. Colar no Outlook (Web ou Desktop)
+
+1. Vá em **Configurações → E-mail → Redigir e responder**
+2. Cole o HTML no campo de assinatura
+3. Salve
+
+---
+
+## Observações importantes
+
+* Os contornos ou linhas que aparecem no **preview do GitHub ou no editor HTML** **não aparecem nos e-mails enviados**
+* As imagens estão hospedadas no GitHub via `raw=true`
+* O layout foi ajustado para evitar:
+
+  * Espaço de baseline em imagens
+  * Sublinhado fantasma
+  * Quebra de layout em diferentes clientes
+
+---
+
+## Personalização
+
+Você pode editar:
+
+* Nome
+* Títulos acadêmicos
+* E-mails
+* Links dos ícones
+* Logos (substituindo as URLs das imagens)
+
