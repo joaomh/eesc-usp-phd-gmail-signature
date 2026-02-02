@@ -1,7 +1,7 @@
 <table cellpadding="0" cellspacing="0"
        style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #000;">
   <tr>
-    <!-- Logos column (forced vertical) -->
+    <!-- Logos -->
     <td valign="top" style="padding-right:16px;">
       <table cellpadding="0" cellspacing="0">
         <tr>
@@ -9,7 +9,8 @@
             <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/lavi.png?raw=true"
                  alt="LAVI USP"
                  height="42"
-                 style="display:block;">
+                 border="0"
+                 style="display:block; vertical-align:middle;">
           </td>
         </tr>
         <tr>
@@ -17,7 +18,8 @@
             <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/mobile.png?raw=true"
                  alt="Laboratory Logo"
                  height="42"
-                 style="display:block;">
+                 border="0"
+                 style="display:block; vertical-align:middle;">
           </td>
         </tr>
       </table>
@@ -34,37 +36,64 @@
         Specialization in Education — UNIVESP<br>
         Mechatronics Engineer — University of São Paulo
       </div>
-      <!-- PCD / Autism -->
+      <!-- PCD -->
       <table cellpadding="0" cellspacing="0" style="margin-top:6px;">
         <tr>
           <td valign="middle" style="padding-right:6px;">
             <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/autismo.png?raw=true"
-                 alt="Autism"
-                 width="14">
+                 width="14"
+                 border="0"
+                 style="display:block; vertical-align:middle;">
           </td>
           <td valign="middle" style="font-style:italic;">
             Person with Disability (PCD) — Autism
           </td>
         </tr>
       </table>
-      <!-- Icons -->
-      <div style="margin-top:8px;">
-        <a href="https://lattes.cnpq.br/4089313443327401" title="Lattes">
-          <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/lattes.jpeg?raw=true" width="16">
-        </a>&nbsp;
-        <a href="https://orcid.org/0009-0001-6192-7374" title="ORCID">
-          <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/orcid.png?raw=true" width="16">
-        </a>&nbsp;
-        <a href="https://scholar.google.com/citations?user=bXATl38AAAAJ&hl=en" title="Google Scholar">
-          <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/scholar.png?raw=true" width="16">
-        </a>&nbsp;
-        <a href="https://www.linkedin.com/in/joaomh/" title="LinkedIn">
-          <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/linkedin.png?raw=true" width="16">
-        </a>&nbsp;
-        <a href="https://www.youtube.com/2001engenharia" title="YouTube">
-          <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/youtube.png?raw=true" width="16">
-        </a>
-      </div>
+      <!-- Icons (NO &nbsp;, NO inline images) -->
+      <table cellpadding="0" cellspacing="0" style="margin-top:8px;">
+        <tr>
+          <td>
+            <a href="https://lattes.cnpq.br/4089313443327401" style="text-decoration:none;">
+              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/lattes.jpeg?raw=true"
+                   width="16" border="0"
+                   style="display:block; vertical-align:middle;">
+            </a>
+          </td>
+          <td width="6"></td>
+          <td>
+            <a href="https://orcid.org/0009-0001-6192-7374" style="text-decoration:none;">
+              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/orcid.png?raw=true"
+                   width="16" border="0"
+                   style="display:block; vertical-align:middle;">
+            </a>
+          </td>
+          <td width="6"></td>
+          <td>
+            <a href="https://scholar.google.com/citations?user=bXATl38AAAAJ&hl=en" style="text-decoration:none;">
+              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/scholar.png?raw=true"
+                   width="16" border="0"
+                   style="display:block; vertical-align:middle;">
+            </a>
+          </td>
+          <td width="6"></td>
+          <td>
+            <a href="https://www.linkedin.com/in/joaomh/" style="text-decoration:none;">
+              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/linkedin.png?raw=true"
+                   width="16" border="0"
+                   style="display:block; vertical-align:middle;">
+            </a>
+          </td>
+          <td width="6"></td>
+          <td>
+            <a href="https://www.youtube.com/2001engenharia" style="text-decoration:none;">
+              <img src="https://github.com/joaomh/eesc-usp-phd-gmail-signature/blob/main/youtube.png?raw=true"
+                   width="16" border="0"
+                   style="display:block; vertical-align:middle;">
+            </a>
+          </td>
+        </tr>
+      </table>
       <!-- Emails -->
       <div style="margin-top:8px;">
         <a href="mailto:joaomh@protonmail.com" style="color:#000; text-decoration:none;">
