@@ -40,7 +40,6 @@ Copie **todo o conteúdo** do arquivo.
 5. **Cole o HTML diretamente** no campo de assinatura
 6. Salve as alterações
 
-> ⚠️ Importante: não use o botão “Inserir imagem”. O HTML já contém tudo.
 
 ---
 
