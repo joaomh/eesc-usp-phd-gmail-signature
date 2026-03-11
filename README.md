@@ -15,7 +15,7 @@ A assinatura utiliza:
 
 ### 1. Baixar o arquivo HTML
 
-Faça o download do arquivo da assinatura (por exemplo: `signature.html`) diretamente do repositório.
+Faça o download do arquivo da assinatura (por exemplo: `email.html`) diretamente do repositório.
 
 Você pode:
 
@@ -26,7 +26,7 @@ Você pode:
 
 ### 2. Copiar o conteúdo HTML
 
-Abra o arquivo `signature.html` em um editor de texto (VS Code, Notepad++, etc.)
+Abra o arquivo `email.html` em um editor de texto (VS Code, Notepad++, etc.)
 Copie **todo o conteúdo** do arquivo.
 
 ---
